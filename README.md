@@ -49,14 +49,5 @@ FontAwesome – Icons for UI enhancements
 
 📂 Project Structure
 
-📂 Coffee-Shop-Website
-│── 📁 images/             # Image assets
-│── 📁 css/                # Stylesheets
-│── 📁 js/                 # JavaScript files
-│── index.html             # Main HTML file
-│── style.css              # Main stylesheet
-│── script.js              # JavaScript functionalities
-│── README.md              # Project documentation
-
 
 If you find this project useful, please consider giving it a star ⭐ on GitHub. Your support keeps me motivated to build more awesome projects!
